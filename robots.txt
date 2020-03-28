@@ -1,0 +1,14 @@
+User-agent: *
+Allow: /Default.aspx
+Allow: /About.aspx
+Allow: /Contact.aspx
+Allow: /PaketProgram.aspx
+Allow: /Referanslar.aspx
+Allow: /Services.aspx
+Allow: /Support.aspx
+Allow: /WebSitesi.aspx
+Allow: /_WebTasarimi.aspx
+Allow: /_WebHosting.aspx
+Allow: /_OzelYazilimCozumleri.aspx
+Allow: /_MikroWebSitesi.aspx
+Allow: /_DinamikWebSitesi.aspx
